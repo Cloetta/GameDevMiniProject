@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 9bd0fd7fa4813d04cbbc79999a9beab6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Saira
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 893aafe0a7672de42bdfae290db2558d, type: 3}
+  - {fileID: 12800000, guid: a11605e8be19dbe4384f2c3e0b1c3705, type: 3}
+  - {fileID: 12800000, guid: 51eefbaa4e9f3b94d9ef2e6f34e82de2, type: 3}
+  - {fileID: 12800000, guid: 3992310bb8cdc8d4083336d8e1c3d21a, type: 3}
+  - {fileID: 12800000, guid: c9f8a50b354c5634ca488c9510f3b007, type: 3}
+  - {fileID: 12800000, guid: 143fc9ebb67d609499f8ae047c804973, type: 3}
+  - {fileID: 12800000, guid: 49f1837cb8b79634093cd27c03a5cb5b, type: 3}
+  - {fileID: 12800000, guid: eaf1bd8c45039ad45bcf9ab9e357e396, type: 3}
+  - {fileID: 12800000, guid: 66aedd0ef98ada74c9fe733cb7ba8459, type: 3}
+  - {fileID: 12800000, guid: 8a38906eea315464381af863b3b50722, type: 3}
+  - {fileID: 12800000, guid: f5d6708ed3893ce41b791510a5769fe8, type: 3}
+  - {fileID: 12800000, guid: 140655ae3b3500a41bf630a871741fb9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e10ecb5c6a93f47408151bc0c4470720
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Saira UltraCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0c1431172dcc744db7cde827e8f9a70, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eac6b9e0994374da6df2d9b3a77bef, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  name: Dog
+  icon: {fileID: 21300000, guid: e6450caa9c7b77648ad621c18dddd74e, type: 3}
+  hpHeal: 30
+  sugarHeal: 30
+  isDefaultItem: 0
+  permanentHealth: 0
+  permanentSugar: 0
+  damageToEnemy: 15
+  skillCooldown: 15
+  sugarCost: 35
+  isDefaultSkill: 0
+  targetIsSelf: 0

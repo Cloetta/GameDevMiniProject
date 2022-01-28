@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6741041752522617462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6741041752522617456}
+  - component: {fileID: 6741041752522617465}
+  m_Layer: 0
+  m_Name: AudioSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6741041752522617456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6741041752522617462}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6741041752522617465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6741041752522617462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9f94f57e01b7ca41bb90d2cb5391130, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: SceneTheme
+    clip: {fileID: 8300000, guid: c856fb8b33bf5ed4889e6117f820c244, type: 3}
+    volume: 0.05
+    pitch: 0.53
+    loop: 1
+    source: {fileID: 0}
+  - name: BossTheme
+    clip: {fileID: 8300000, guid: 86fe5a2e483d4f740992ab1dc11c5776, type: 3}
+    volume: 0.07
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: GameOver
+    clip: {fileID: 0}
+    volume: 0.05
+    pitch: 0.53
+    loop: 0
+    source: {fileID: 0}
+  - name: Family
+    clip: {fileID: 8300000, guid: 5658ef37651ef2040aa1aa7dd69d66da, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Night
+    clip: {fileID: 8300000, guid: 298ad9cf91bc318488e0d413003cf9cf, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CollectedItem
+    clip: {fileID: 8300000, guid: c2a699958866510458470bd06db5aba6, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Use
+    clip: {fileID: 8300000, guid: e3df5ca9b3e7ba4468c136e0f014ac76, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Remove
+    clip: {fileID: 8300000, guid: 03169ecbc2784644fa1189a178addcc5, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: HitByEnemy
+    clip: {fileID: 8300000, guid: 1ee105a88d438bb4fa85109af095f390, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MenuClick
+    clip: {fileID: 8300000, guid: 3a6bb1b72b22f6849857e60f0041c383, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: HitByBoss
+    clip: {fileID: 8300000, guid: e40e7a7683829c94eb55ddd56ccfc3bf, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Dog
+    clip: {fileID: 8300000, guid: 5658ef37651ef2040aa1aa7dd69d66da, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Pizza
+    clip: {fileID: 8300000, guid: 298ad9cf91bc318488e0d413003cf9cf, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Monster
+    clip: {fileID: 8300000, guid: 298ad9cf91bc318488e0d413003cf9cf, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyAttack
+    clip: {fileID: 8300000, guid: 002be3c07bd6c3f4abce82be4e3caf6c, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BossAttack
+    clip: {fileID: 8300000, guid: aa62e6a6005b046469c06f0d44ff99dd, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: StartMenuTheme
+    clip: {fileID: 8300000, guid: c856fb8b33bf5ed4889e6117f820c244, type: 3}
+    volume: 0.2
+    pitch: 0.79
+    loop: 1
+    source: {fileID: 0}
+  - name: ThankYouTheme
+    clip: {fileID: 0}
+    volume: 0.2
+    pitch: 0.79
+    loop: 1
+    source: {fileID: 0}

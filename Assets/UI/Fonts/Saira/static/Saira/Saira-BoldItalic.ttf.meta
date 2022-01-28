@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a11605e8be19dbe4384f2c3e0b1c3705
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Saira
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51eefbaa4e9f3b94d9ef2e6f34e82de2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

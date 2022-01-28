@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eac6b9e0994374da6df2d9b3a77bef, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  name: Monster
+  icon: {fileID: 21300000, guid: 13856a1c9ec1deb4b916b29b5b60d72b, type: 3}
+  hpHeal: 0
+  sugarHeal: 0
+  isDefaultItem: 0
+  permanentHealth: 0
+  permanentSugar: 0
+  damageToEnemy: 100
+  skillCooldown: 120
+  sugarCost: 70
+  isDefaultSkill: 0
+  targetIsSelf: 0
